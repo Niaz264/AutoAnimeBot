@@ -18,7 +18,7 @@ async def start_bot():
   await app.send_message(UPLOADS_ID,f"⭐️ **Bot Started...**\n\n`Uploading Will Start After 10 Minutes`\n\nCheck Status : [Here](https://t.me/{UPLOADS_USERNAME}/{STATUS_ID})")
   print("==================================")
   print("[INFO]: AutoAnimeBot Started Bot Successfully")
-  print("==========JOIN @TECHZBOTS=========")
+  print("==========JOIN @Meowmeowmeowmeomeow=========")
 
   print("[INFO]: Adding Parsing Task")
   asyncio.create_task(auto_parser())
